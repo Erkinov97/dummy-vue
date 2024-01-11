@@ -3,6 +3,6 @@
 </script>
 <template>
     <div>
-        home view
+        Login view
     </div>
 </template>

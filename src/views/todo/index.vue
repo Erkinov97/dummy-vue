@@ -3,6 +3,6 @@
 </script>
 <template>
     <div>
-        home view
+        Todos view
     </div>
 </template>

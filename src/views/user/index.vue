@@ -3,6 +3,6 @@
 </script>
 <template>
     <div>
-        home view
+        Users view
     </div>
 </template>
