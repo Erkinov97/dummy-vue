@@ -1,5 +1,5 @@
-import HomeView from "../views/HomeView.vue";
-import NotFound from "../views/NotFound.vue";
+import HomeView from "@/views/HomeView.vue";
+import NotFound from "@/views/NotFound.vue";
 
 const routes = [
   {
