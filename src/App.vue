@@ -3,6 +3,6 @@
 </script>
 
 <template>
-  App vue
+  <RouterView />
 </template>
 
