@@ -1,7 +1,8 @@
+import { RouteRecordRaw } from "vue-router";
 import HomeView from "@/views/HomeView.vue";
 import NotFound from "@/views/NotFound.vue";
 
-const routes = [
+const routes: Array<RouteRecordRaw> = [
   {
     path: "/login",
     name: "login",
